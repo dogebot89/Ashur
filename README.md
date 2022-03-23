@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://github.com/dogebot89">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=ᴛʜᴀɴᴋꜱ+ꜰᴏʀ+ᴜꜱɪɴɢ+𝗔𝗦𝗛𝗨𝗥+ʙᴏᴛ+😋"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thanks+For+Using+Ashur+Bot+😋"
             alt="Drips ORG"
         />
     </a>
